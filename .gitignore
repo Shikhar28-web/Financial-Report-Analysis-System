@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+data/chroma_db/
+data/embed_cache/
+chroma.sqlite3
+*.json
+uploads/
+
+.DS_Store
+Thumbs.db
+
